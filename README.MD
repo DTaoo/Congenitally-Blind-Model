@@ -4,7 +4,7 @@ This repository provides a kind of congenitally-blind model, implemented in Kera
 For more details about this model, please see our paper [Listen to the Image](http://dtaoo.github.io/papers/2019_voice.pdf) by Di Hu, Dong Wang et al, CVPR 2019.
 
 ## The Congenitally-Blind Model:
-<img src='ims/cbm.jpg'>
+<img src='ims/cbm.JPG'>
 
 The image and vOICe translator outside the dashed boxes represent the circumstance of blindness with Sensory Substitution devices, while the two-stage model within the boxes consists of preliminary sound embedding and cross-modal generative adversarial perception.
 
@@ -34,6 +34,6 @@ The generated images can be found in  `gen_mnist/`. Note that, the visual model 
 
 
 ## Imagined visual objects by 'hearing' 
-<img src='ims/cbm_examples.jpg'>
+<img src='ims/cbm_examples.JPG'>
 
 

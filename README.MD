@@ -1,7 +1,6 @@
 # Listen to the Image
 
-This repository provides a kind of congenitally-blind model, implemented in Keras with tensorflow backend.
-For more details about this model, please see our paper [Listen to the Image](http://dtaoo.github.io/papers/2019_voice.pdf) by Di Hu, Dong Wang et al, CVPR 2019.
+This repository provides a kind of **Congenitally-Blind Model**, implemented in Keras with tensorflow backend. The **Late-Blind Model** can be found [here](https://github.com/redwang/Late-blind-Model/tree/master). For more details about this model, please see our paper [Listen to the Image](http://dtaoo.github.io/papers/2019_voice.pdf) by Di Hu, Dong Wang et al, CVPR 2019. 
 
 ## The Congenitally-Blind Model:
 <img src='ims/cbm.JPG'>
